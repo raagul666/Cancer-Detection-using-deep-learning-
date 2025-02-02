@@ -1,3 +1,4 @@
+
 # 🎗️ Cancer Detection using Image Segmentation with SegFormer DL Architecture
 
 This repository contains the implementation of a **deep learning-based cancer detection system** using **SegFormer**, a state-of-the-art transformer-based architecture for image segmentation. The project aims to improve the precision and accuracy of cancer detection by leveraging advanced image segmentation techniques.
@@ -95,4 +96,6 @@ This project is licensed under the [License](LICENSE).
 ### 💡 **Acknowledgments**
 - **SegFormer Authors** for their groundbreaking work on transformer-based segmentation.
 - Open-source community for datasets and pre-trained models.
+
+# Cancer-Detection-using-deep-learning-
 
